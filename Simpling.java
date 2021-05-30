@@ -1,6 +1,4 @@
-/**
- * simplifying_cfg Created by AliYazdi75 on May_2018
- */
+
 import java.util.ArrayList;
 import java.util.List;
 
